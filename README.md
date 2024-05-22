@@ -20,3 +20,4 @@ This code aims to generate the name and respective year of a random movie by rea
     5. A random index is generated using `randrange` from the `random` module.
     6. The movie name and year are retrieved from the DataFrame using the random index.
     7. The selected movie name and year are printed to the console."# Random-Movie-Picker" 
+"# Random-Movie-Picker" 
